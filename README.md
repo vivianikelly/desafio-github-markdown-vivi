@@ -1,6 +1,6 @@
 <center><h2>Explorando a Colaboração e o Uso do Markdown para Documentação Eficiente</h2></center>
 
-Olá, me chamo Viviani!! O curso foi muito aproveitoso, e proporcionou um grande aprendizado sobre os conceitos de Git e GitHub, informações sobre autenticação, além de fundamentos de coloboração e uso adequado do Markdown para uma documentação clara e objetiva.
+Olá, me chamo Viviani!! O curso foi muito aproveitoso, e proporcionou um grande aprendizado sobre os conceitos de Git e GitHub, informações sobre autenticação, além de fundamentos de colaboração e uso adequado do Markdown para uma documentação clara e objetiva.
 
 <div align="center"><img src="https://inklysaraujo.com.br/wp-content/uploads/2022/10/git-vs-github.png" alt="Git vs GitHub" width="600" height="300"></div>
 
