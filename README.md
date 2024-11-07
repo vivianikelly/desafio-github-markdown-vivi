@@ -1,28 +1,32 @@
-<center><h1>Git & GitHub - Explorando Colaboração e Markdown </h1></center>
+<center><h2>Explorando a Colaboração e o Uso do Markdown para Documentação Eficiente</h2></center>
 
-#### >> DESAFIO DE PROJETO <<
+Olá, me chamo Viviani!! O curso foi muito aproveitoso, e proporcionou um grande aprendizado sobre os conceitos de Git e GitHub, informações sobre autenticação, além de fundamentos de coloboração e uso adequado do Markdown para uma documetação clara e objetiva.
 
-Olá, visitante 👽! Sejam bem-vindos(as)! Espero que a sua jornada até aqui tenha sido repleta de grandes aprendizados. Agora, para testarmos tudo o que aprendemos sobre o Git e GitHub, seus processos de colaboração e a incrível linguagem Markdown 💞, proponho a vocês um super desafio. Vamos então entender o que teremos que fazer?
+<div align="center"><img src="https://inklysaraujo.com.br/wp-content/uploads/2022/10/git-vs-github.png" alt="Git vs GitHub" width="600" height="300"></div>
 
-**Objetivos:**
+__Objetivos Realizados:__
 
-1. **Criar sua conta no Github:**
-   - Essencial para alcançarmos nossos objetivos.
+1. **Criar sua conta no Github:** Conta criada no Github: https://github.com/vivianikelly/ e configurada com autenticação por token para garantir segurança e facilitar o acesso.
 
-2. **Criar um Repositório:**
-   - Crie um novo repositório no GitHub, nomeando-o como "desafio-github-markdown" ou outro nome.
-   - Adicione o seu README.md ao criar o repositório.
-   - Utilize o Github.dev para editar seu projeto diretamente com o editor web do Github.
-   - Lembre-se: o repositório deve ser público.
+2. **Criar um Repositório:** Repositório para o desafio criado [desafio-github-markdown](https://github.com/vivianikelly/desafio-github-markdown-versao-viviani) criado com sucesso para armazenar e gerenciar projetos. A edição foi realizada tanto no Visual Studio Code quanto diretamente no GitHub.dev, proporcionando flexibilidade no desenvolvimento.
 
-3. **Colaboração:**
-   - Adicione um colaborador ao seu repositório (pode ser um colega de curso ou você mesmo com uma conta diferente).
-   - Ambos devem fazer um clone do repositório em suas máquinas locais.
-   - Realizem alterações, Commits, abra issues e pull requests.
+3. **Colaboração:** Para iniciar a coloboração, foi realizado um fok do repositório https://github.com/alinealien/desafio-github-markdown para ter como base nas alterações. Após isso, foi realizado clone do repositório na máquina local conforme abaixo:
+
+``` 
+$ git clone https://github.com/vivianikelly/desafio-github-markdown-versao-viviani.git
+Cloning into 'desafio-github-markdown-versao-viviani'... 
+```
+
+- Para complementar o repositório foi incluído alguns scripts python realizados na trilha de Programção Python.
+
+
+
+
 
 4. **Formatação com Markdown:**
-   - Edite o arquivo "README.md" em seu repositório.
-   - Utilize a linguagem Markdown para formatar informações sobre o desafio, instruções e uma breve descrição do seu projeto.
+
+__
+
 
 <div align="center"><h2> Ao Infinito e Além: 🚀</h2></div>
 
@@ -36,3 +40,5 @@ Crie branches para o seu projeto e realizem merge das alterações. Treinem os c
 Ahhh e quero ver o README do Perfil bem legal ein?! 😎
 
 Então... bons estudos!!
+
+> [fork by github-alinealien/desafio-github-markdown](https://github.com/alinealien/desafio-github-markdown)
