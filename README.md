@@ -6,7 +6,7 @@ Olá, me chamo Viviani!! O curso foi muito aproveitoso, e proporcionou um grande
 
 ### Objetivos Realizados:
 
-1. **Criar sua conta no Github:** Conta criada e configurada com autenticação por token para garantir segurança e facilitar o acesso. Perfil disponível em: [github.com/vivianikelly](github.com/vivianikelly).
+1. **Criar sua conta no Github:** Conta criada e configurada com autenticação por token para garantir segurança e facilitar o acesso. Perfil disponível em: [github.com/vivianikelly](https://github.com/vivianikelly).
 
 2. **Criar um Repositório:** Repositório para o desafio criado [desafio-github-markdown](https://github.com/vivianikelly/desafio-github-markdown-vivi) criado com sucesso para armazenar e gerenciar projetos. A edição foi realizada tanto no Visual Studio Code quanto diretamente no GitHub.dev, proporcionando flexibilidade no desenvolvimento.
 
